@@ -2,7 +2,7 @@
 
 a webcomic experiment.
 
-<p algin="center">
+<p align="center">
 <img src="logobw.gif" alt="logo" height="160" />
 </p>
 
@@ -10,8 +10,14 @@ a webcomic experiment.
 
 ![parcel2](parcel2.gif)
 
+***
+
 ![bug](bug.gif)
 
+***
+
 ![tree](tree.gif)
+
+***
 
 ![testing](testing.svg)
